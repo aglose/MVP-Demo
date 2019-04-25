@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wardrobe Malfunction</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="landing_page_title">Welcome</string>
+    <string name="bottom_nav_wardrobe">Wardrobe</string>
+    <string name="bottom_nav_calendar">Calendar</string>
+    <string name="bottom_nav_extra">Extra</string>
+    <string name="create_layout_action">Create Outfit</string>
+    <string name="choose_hat_selection_header">Choose a hat</string>
+    <string name="choose_shirt_selection_header">Choose a shirt</string>
+    <string name="choose_pants_selection_header">Choose your pants</string>
+    <string name="choose_shoes_selection_header">Select a pair of shoes</string>
+</resources>
