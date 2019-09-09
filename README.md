@@ -3,14 +3,14 @@
 This is test application built by Andrew Glose to showcase an employee directory
 
 ## Focus Areas
-Clean Architecture
+#### Clean Architecture
 * The app is layered with View -> Domain -> Data
-Modularity
+#### Modularity
 * I love a highly modular app and I wanted to demonstrate best practices with this structure
-Model View ViewModel (MVVM)
+#### Model View ViewModel (MVVM)
 * This is general best practice when using JetPack libraries. LiveData and Jetpack's ViewModel
 make this experience a breeze
-Kotlin - Coroutines
+#### Kotlin - Coroutines
 * Kotlin is my favorite language and have been using it almost 2 years now. This is also a showcase
 of my Kotlin knowledge
 Unit testing
